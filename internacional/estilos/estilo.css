@@ -1,0 +1,43 @@
+html{
+    font-size: 16px;
+    font-family: 'Bebas Neue', sans-serif;
+    background-color: rgb(227, 50, 50);
+    color: rgb(0, 0, 0);
+}
+
+h1{
+    font-size: 60px;
+    text-align: center;
+    margin: 0;
+    padding: 20px 0;
+}
+
+p, li{
+    line-height: 2;
+    letter-spacing: 1px;
+}
+
+a{
+    color: rgb(0, 0, 0);
+}
+a:hover{
+    color: yellow;
+}
+body{
+    width: 600px;
+    margin: 0 auto;
+    background-color: #f0eeec;
+    padding: 0 20px 20px 20px;
+    border: 5px solid black;
+    
+    
+}
+img{
+    display: block;
+    margin: 0 auto;
+    width: 300px;
+}
+
+button{
+   border: 1px solid black; 
+}
